@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lorinyajr
+- 👋 Hi, I’m @Z4ck_zr7
 - 👀 I’m interested in creating c++ java and python programs,am also good in website development.
 - 🌱 I’m currently learning computer science at Maasai mara university
 - 💞️ I’m looking to collaborate on c++ programs and new web designs
